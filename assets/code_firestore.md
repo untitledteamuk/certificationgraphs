@@ -1,7 +1,7 @@
 # Firestore samples
 
 ## Edges
-- [Firestore](../solutions/solution_firestore)
+- [Firestore](../solutions/solution_firestore.md)
 
 ## Assets
 - [All Firestore code samples](https://cloud.google.com/firestore/docs/samples?hl=en)
@@ -12,3 +12,15 @@
 - [GoogleCloudPlatform/php-docs-samples/firestore/src/](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/7dfeeda3bcf63c77df2a0d7c9c4f3d2b9f62c680/firestore/src)
 - [GoogleCloudPlatform/python-docs-samples/firestore](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/2ca8165875b1d93fdee551bdaa4db410e50c8d85/firestore)
 - [googleapis/google-cloud-ruby/google-cloud-firestore/samples/](https://github.com/googleapis/google-cloud-ruby/tree/9712594980a4dd2baa5d66d5a37e74888c781b2f/google-cloud-firestore/samples)
+
+
+### Document metadata
+Category: Asset
+Type: Child
+Version: 1.0
+Created By: Richard Bannister
+Created: 2022-11-08T20:31:39Z
+Last Modified By: Richard Bannister
+Last Modified: 2022-11-08T20:31:39Z
+Comments: 
+Keywords: 

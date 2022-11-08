@@ -1,6 +1,19 @@
 # Anthos
 
 ## Edges
-- [Run for Anthos](solution_anthos_runforanthos)
+- [Run for Anthos](solution_anthos_runforanthos.md)
 
 ## Assets
+
+
+
+### Document metadata
+Category: Solution
+Type: Child
+Version: 1.0
+Created By: Richard Bannister
+Created: 2022-11-08T20:31:39Z
+Last Modified By: Richard Bannister
+Last Modified: 2022-11-08T20:31:39Z
+Comments: 
+Keywords: 

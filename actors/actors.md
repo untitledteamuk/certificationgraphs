@@ -1,4 +1,19 @@
 # Actors
 
 ## Edges
-- [Richard Bannister](actor_richardbannister)
+- [Richard Bannister](actor_richardbannister.md)
+
+## Assets
+
+
+
+### Document metadata
+Category: Actor
+Type: Parent
+Version: 1.0
+Created By: Richard Bannister
+Created: 2022-11-08T20:31:39Z
+Last Modified By: Richard Bannister
+Last Modified: 2022-11-08T20:31:39Z
+Comments: 
+Keywords: 

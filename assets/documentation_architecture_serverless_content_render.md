@@ -1,3 +1,18 @@
 # Serverless content render
 
+## Edges
+
+## Assets
 - [Home](https://cloud.google.com/architecture/content-render-architecture)
+
+
+### Document metadata
+Category: Asset
+Type: Child
+Version: 1.0
+Created By: Richard Bannister
+Created: 2022-11-08T20:31:39Z
+Last Modified By: Richard Bannister
+Last Modified: 2022-11-08T20:31:39Z
+Comments: 
+Keywords: 
